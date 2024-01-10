@@ -1,0 +1,20 @@
+{
+  "name": "cypresswithcucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.0",
+    "@cypress/webpack-preprocessor": "^6.0.1",
+    "cypress-fill-command": "^1.0.2"
+  }
+}

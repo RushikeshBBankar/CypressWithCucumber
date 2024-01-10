@@ -1,0 +1,8 @@
+{
+  "usernameField": "#userEmail",
+  "passwordField": "#userPassword",
+  "LoginButton": "#login",
+  "userName": "anshika@gmail.com",
+  "password": "Iamking@000",
+  "signOutButton": ".fa-sign-out"
+}
